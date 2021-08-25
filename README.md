@@ -7,6 +7,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bsa0322)](https://solved.ac/bsa0322)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bsa0322)](https://solved.ac/bsa0322)
+
+
 <!--
 **bsa0322/bsa0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
